@@ -7,7 +7,7 @@ package com.revature;
  * @author Thanh Vu
  *
  */
-public class Account {
+public abstract class Account {
 
 	protected String Lname;
 	protected String Fname;
