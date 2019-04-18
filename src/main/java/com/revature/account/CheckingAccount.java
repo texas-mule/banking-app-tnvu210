@@ -1,4 +1,4 @@
-package com.revature;
+package com.revature.account;
 
 
 public class CheckingAccount extends Account {

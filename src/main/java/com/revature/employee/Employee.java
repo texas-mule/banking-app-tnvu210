@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.revature;
+package com.revature.employee;
 
 /**
  * @author Thanh Vu
